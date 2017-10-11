@@ -1,0 +1,16 @@
+[{
+	"username": "ajay_pattnaik",
+	"password": "ajay",
+	"name": "Ajay Pattnaik",
+	"bookingId":[4,5,6]
+},{
+	"username": "ankita_sharma",
+	"password": "ankita",
+	"name": "Ankita Sharma",
+	"bookingId":[1]
+},{
+	"username": "siddharth_roy",
+	"password": "siddharth",
+	"name": "Siddharth Roy",
+	"bookingId":[2,3]
+}]

@@ -1,0 +1,43 @@
+[{
+	"bookingId": 2365,	
+	"name": "Ankita Sharma",
+	"fromDate":"04/26/2017",
+	"toDate":"04/29/2017",
+	"guests": 5,
+	"rooms":2
+}, {
+	"bookingId": 5456,
+	"name": "Siddharth Roy",
+	"fromDate":"05/26/2017",
+	"toDate":"05/27/2017",
+	"guests": 4,
+	"rooms":1
+}, {
+	"bookingId": 3435,
+	"name": "Siddharth Roy",
+	"fromDate":"08/01/2017",
+	"toDate":"08/05/2017",
+	"guests": 6,
+	"rooms":2
+}, {
+	"bookingId": 4345,
+	"name": "Ajay Pattnaik",
+	"fromDate":"08/13/2017",
+	"toDate":"08/18/2017",
+	"guests": 4,
+	"rooms":1
+},{
+	"bookingId": 5676,
+	"name": "Ajay Pattnaik",
+	"fromDate":"09/13/2017",
+	"toDate":"09/18/2017",
+	"guests": 8,
+	"rooms":2
+},{
+	"bookingId": 6456,
+	"name": "Ajay Pattnaik",
+	"fromDate":"11/21/2017",
+	"toDate":"11/23/2017",
+	"guests": 2,
+	"rooms":1
+}]
